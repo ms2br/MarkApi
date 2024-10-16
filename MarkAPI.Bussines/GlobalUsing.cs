@@ -1,0 +1,14 @@
+﻿global using MarkAPI.Bussines.ExternalServices.Implements;
+global using MarkAPI.Bussines.ExternalServices.Interfaces;
+global using MarkAPI.Bussines.ExternalContext.Implements;
+global using MarkAPI.Bussines.ExternalContext.Interfaces;
+global using MarkAPI.Bussines.Services.Implements;
+global using MarkAPI.Bussines.Services.Interfaces;
+global using Microsoft.Extensions.DependencyInjection;
+global using MarkAPI.Bussines.Exceptions.Common;
+global using MarkAPI.Bussines.Exceptions;
+global using Microsoft.AspNetCore.Http;
+global using MarkAPI.Bussines.Repositories.Interfaces;
+global using MarkAPI.CORE.Entities;
+global using MarkAPI.DAL.Context;
+global using AutoMapper;

@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\It\\CodeTasks\\Api\\MarkAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|c:\\it\\codetasks\\api\\markapi\\markapi.bussines\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|solutionrelative:markapi.bussines\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|c:\\it\\codetasks\\api\\markapi\\markapi.bussines\\helpers\\gettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|solutionrelative:markapi.bussines\\helpers\\gettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|c:\\it\\codetasks\\api\\markapi\\markapi.bussines\\services\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|solutionrelative:markapi.bussines\\services\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|c:\\it\\codetasks\\api\\markapi\\markapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|solutionrelative:markapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|c:\\it\\codetasks\\api\\markapi\\markapi.bussines\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|solutionrelative:markapi.bussines\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|c:\\it\\codetasks\\api\\markapi\\markapi.bussines\\externalservices\\implements\\blacklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|solutionrelative:markapi.bussines\\externalservices\\implements\\blacklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|c:\\it\\codetasks\\api\\markapi\\markapi.bussines\\externalservices\\interfaces\\iblacklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|solutionrelative:markapi.bussines\\externalservices\\interfaces\\iblacklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|c:\\it\\codetasks\\api\\markapi\\markapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|solutionrelative:markapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|c:\\it\\codetasks\\api\\markapi\\markapi.api\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|solutionrelative:markapi.api\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|c:\\it\\codetasks\\api\\markapi\\markapi.bussines\\services\\implements\\keywordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|solutionrelative:markapi.bussines\\services\\implements\\keywordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|c:\\it\\codetasks\\api\\markapi\\markapi.bussines\\externalservices\\implements\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|solutionrelative:markapi.bussines\\externalservices\\implements\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\Services\\Implements\\UserService.cs",
+              "RelativeDocumentMoniker": "MarkAPI.Bussines\\Services\\Implements\\UserService.cs",
+              "ToolTip": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\Services\\Implements\\UserService.cs",
+              "RelativeToolTip": "MarkAPI.Bussines\\Services\\Implements\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:07:01.184Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "MarkAPI.Bussines\\ServiceRegistration.cs",
+              "ToolTip": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\ServiceRegistration.cs",
+              "RelativeToolTip": "MarkAPI.Bussines\\ServiceRegistration.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:57:22.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBlackListService.cs",
+              "DocumentMoniker": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\ExternalServices\\Interfaces\\IBlackListService.cs",
+              "RelativeDocumentMoniker": "MarkAPI.Bussines\\ExternalServices\\Interfaces\\IBlackListService.cs",
+              "ToolTip": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\ExternalServices\\Interfaces\\IBlackListService.cs",
+              "RelativeToolTip": "MarkAPI.Bussines\\ExternalServices\\Interfaces\\IBlackListService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:55:44.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlackListService.cs",
+              "DocumentMoniker": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\ExternalServices\\Implements\\BlackListService.cs",
+              "RelativeDocumentMoniker": "MarkAPI.Bussines\\ExternalServices\\Implements\\BlackListService.cs",
+              "ToolTip": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\ExternalServices\\Implements\\BlackListService.cs",
+              "RelativeToolTip": "MarkAPI.Bussines\\ExternalServices\\Implements\\BlackListService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:12:57.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\Services\\Implements\\AuthService.cs",
+              "RelativeDocumentMoniker": "MarkAPI.Bussines\\Services\\Implements\\AuthService.cs",
+              "ToolTip": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\Services\\Implements\\AuthService.cs",
+              "RelativeToolTip": "MarkAPI.Bussines\\Services\\Implements\\AuthService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:24:14.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KeywordService.cs",
+              "DocumentMoniker": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\Services\\Implements\\KeywordService.cs",
+              "RelativeDocumentMoniker": "MarkAPI.Bussines\\Services\\Implements\\KeywordService.cs",
+              "ToolTip": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\Services\\Implements\\KeywordService.cs",
+              "RelativeToolTip": "MarkAPI.Bussines\\Services\\Implements\\KeywordService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:24:10.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "MarkAPI.API\\Program.cs",
+              "ToolTip": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.API\\Program.cs",
+              "RelativeToolTip": "MarkAPI.API\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:09:15.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.API\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "MarkAPI.API\\ServiceRegistration.cs",
+              "ToolTip": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.API\\ServiceRegistration.cs",
+              "RelativeToolTip": "MarkAPI.API\\ServiceRegistration.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAF8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:01:22.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MarkAPI.API\\appsettings.json",
+              "ToolTip": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.API\\appsettings.json",
+              "RelativeToolTip": "MarkAPI.API\\appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T00:40:52.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\ExternalServices\\Implements\\TokenService.cs",
+              "RelativeDocumentMoniker": "MarkAPI.Bussines\\ExternalServices\\Implements\\TokenService.cs",
+              "ToolTip": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\ExternalServices\\Implements\\TokenService.cs",
+              "RelativeToolTip": "MarkAPI.Bussines\\ExternalServices\\Implements\\TokenService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T00:40:32.32Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetToken.cs",
+              "DocumentMoniker": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\Helpers\\GetToken.cs",
+              "RelativeDocumentMoniker": "MarkAPI.Bussines\\Helpers\\GetToken.cs",
+              "ToolTip": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.Bussines\\Helpers\\GetToken.cs",
+              "RelativeToolTip": "MarkAPI.Bussines\\Helpers\\GetToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:03:10.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

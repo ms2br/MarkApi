@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MarkAPI.API.props" />
+</Project>

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "r0jqV/yVsKLv9JGnVhWPvgVOPWvVtCwUPSrydMSrfv0=",
+  "Source": "MarkAPI.API",
+  "BasePath": "_content/MarkAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MarkAPI.API\\wwwroot",
+      "Source": "MarkAPI.API",
+      "ContentRoot": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.API\\wwwroot\\",
+      "BasePath": "_content/MarkAPI.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.API\\wwwroot\\schema\\confirmEmail.html",
+      "SourceId": "MarkAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.API\\wwwroot\\",
+      "BasePath": "_content/MarkAPI.API",
+      "RelativePath": "schema/confirmEmail.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\schema\\confirmEmail.html"
+    }
+  ]
+}
