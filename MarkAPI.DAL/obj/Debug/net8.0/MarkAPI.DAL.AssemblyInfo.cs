@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarkAPI.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74160b863568811b6ee63058273c71ba15e7d5a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+893fd86eab88514ba153d0cc16d429c212ba6bb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarkAPI.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarkAPI.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

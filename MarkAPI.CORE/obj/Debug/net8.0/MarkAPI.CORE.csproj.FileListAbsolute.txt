@@ -11,3 +11,16 @@ C:\It\CodeTasks\Api\MarkAPI\MarkAPI.CORE\obj\Debug\net8.0\MarkAPI.CORE.dll
 C:\It\CodeTasks\Api\MarkAPI\MarkAPI.CORE\obj\Debug\net8.0\refint\MarkAPI.CORE.dll
 C:\It\CodeTasks\Api\MarkAPI\MarkAPI.CORE\obj\Debug\net8.0\MarkAPI.CORE.pdb
 C:\It\CodeTasks\Api\MarkAPI\MarkAPI.CORE\obj\Debug\net8.0\ref\MarkAPI.CORE.dll
+C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.CORE\bin\Debug\net8.0\MarkAPI.CORE.deps.json
+C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.CORE\bin\Debug\net8.0\MarkAPI.CORE.dll
+C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.CORE\bin\Debug\net8.0\MarkAPI.CORE.pdb
+C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.CORE\obj\Debug\net8.0\MarkAPI.CORE.csproj.AssemblyReference.cache
+C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.CORE\obj\Debug\net8.0\MarkAPI.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.CORE\obj\Debug\net8.0\MarkAPI.CORE.AssemblyInfoInputs.cache
+C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.CORE\obj\Debug\net8.0\MarkAPI.CORE.AssemblyInfo.cs
+C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.CORE\obj\Debug\net8.0\MarkAPI.CORE.csproj.CoreCompileInputs.cache
+C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.CORE\obj\Debug\net8.0\MarkAPI.CORE.sourcelink.json
+C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.CORE\obj\Debug\net8.0\MarkAPI.CORE.dll
+C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.CORE\obj\Debug\net8.0\refint\MarkAPI.CORE.dll
+C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.CORE\obj\Debug\net8.0\MarkAPI.CORE.pdb
+C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.CORE\obj\Debug\net8.0\ref\MarkAPI.CORE.dll

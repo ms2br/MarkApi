@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "r0jqV/yVsKLv9JGnVhWPvgVOPWvVtCwUPSrydMSrfv0=",
+  "Hash": "KnhF2dVaVso8GkzJm2iOZ4ofHwX0bK0hsAcluvgfUKo=",
   "Source": "MarkAPI.API",
   "BasePath": "_content/MarkAPI.API",
   "Mode": "Default",
@@ -10,30 +10,116 @@
     {
       "Name": "MarkAPI.API\\wwwroot",
       "Source": "MarkAPI.API",
-      "ContentRoot": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.API\\wwwroot\\",
       "BasePath": "_content/MarkAPI.API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.API\\wwwroot\\schema\\confirmEmail.html",
+      "Identity": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.API\\wwwroot\\schema\\confirmEmail.html",
       "SourceId": "MarkAPI.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.API\\wwwroot\\",
       "BasePath": "_content/MarkAPI.API",
-      "RelativePath": "schema/confirmEmail.html",
+      "RelativePath": "schema/confirmEmail#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "l8ukr9u4zu",
+      "Integrity": "64p1XwplRAeUH+xmB9PtCtulgxyGax3MW3MJyLVr0IY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\schema\\confirmEmail.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "schema/confirmEmail.html",
+      "AssetFile": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.API\\wwwroot\\schema\\confirmEmail.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"64p1XwplRAeUH+xmB9PtCtulgxyGax3MW3MJyLVr0IY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 12:39:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-64p1XwplRAeUH+xmB9PtCtulgxyGax3MW3MJyLVr0IY="
+        }
+      ]
+    },
+    {
+      "Route": "schema/confirmEmail.l8ukr9u4zu.html",
+      "AssetFile": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.API\\wwwroot\\schema\\confirmEmail.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"64p1XwplRAeUH+xmB9PtCtulgxyGax3MW3MJyLVr0IY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 12:39:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l8ukr9u4zu"
+        },
+        {
+          "Name": "label",
+          "Value": "schema/confirmEmail.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-64p1XwplRAeUH+xmB9PtCtulgxyGax3MW3MJyLVr0IY="
+        }
+      ]
     }
   ]
 }

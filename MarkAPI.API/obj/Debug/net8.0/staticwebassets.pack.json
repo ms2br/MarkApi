@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.API\\wwwroot\\schema\\confirmEmail.html",
+      "Id": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.API\\wwwroot\\schema\\confirmEmail.html",
       "PackagePath": "staticwebassets\\schema\\confirmEmail.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MarkAPI.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MarkAPI.API.Microsoft.AspNetCore.StaticWebAssets.props",

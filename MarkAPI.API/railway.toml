@@ -1,0 +1,7 @@
+[build]
+builder = "dockerfile"
+dockerfile = "./MarkApi/MarkAPI.API/Dockerfile"
+
+[deploy]
+startCommand = "dotnet MarkAPI.API.dll"
+restartPolicyType = "never"

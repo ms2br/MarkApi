@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MarkAPI.API/schema/confirmEmail.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\schema\confirmEmail.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-64p1XwplRAeUH\u002BxmB9PtCtulgxyGax3MW3MJyLVr0IY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4844"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u002264p1XwplRAeUH\u002BxmB9PtCtulgxyGax3MW3MJyLVr0IY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 12:39:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarkAPI.API/schema/confirmEmail.l8ukr9u4zu.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\schema\confirmEmail.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l8ukr9u4zu"},{"Name":"integrity","Value":"sha256-64p1XwplRAeUH\u002BxmB9PtCtulgxyGax3MW3MJyLVr0IY="},{"Name":"label","Value":"_content/MarkAPI.API/schema/confirmEmail.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4844"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u002264p1XwplRAeUH\u002BxmB9PtCtulgxyGax3MW3MJyLVr0IY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 12:39:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.DAL\\MarkAPI.DAL.csproj": {}
+    "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.DAL\\MarkAPI.DAL.csproj": {}
   },
   "projects": {
-    "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.CORE\\MarkAPI.CORE.csproj": {
+    "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.CORE\\MarkAPI.CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.CORE\\MarkAPI.CORE.csproj",
+        "projectUniqueName": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.CORE\\MarkAPI.CORE.csproj",
         "projectName": "MarkAPI.CORE",
-        "projectPath": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.CORE\\MarkAPI.CORE.csproj",
-        "packagesPath": "C:\\Users\\msbr\\.nuget\\packages\\",
-        "outputPath": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.CORE\\obj\\",
+        "projectPath": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.CORE\\MarkAPI.CORE.csproj",
+        "packagesPath": "C:\\Users\\namelesswarrior\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.CORE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\msbr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\namelesswarrior\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -43,8 +43,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -71,24 +72,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.24575.35/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.DAL\\MarkAPI.DAL.csproj": {
+    "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.DAL\\MarkAPI.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.DAL\\MarkAPI.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.DAL\\MarkAPI.DAL.csproj",
         "projectName": "MarkAPI.DAL",
-        "projectPath": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.DAL\\MarkAPI.DAL.csproj",
-        "packagesPath": "C:\\Users\\msbr\\.nuget\\packages\\",
-        "outputPath": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.DAL\\obj\\",
+        "projectPath": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.DAL\\MarkAPI.DAL.csproj",
+        "packagesPath": "C:\\Users\\namelesswarrior\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\msbr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\namelesswarrior\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -104,8 +105,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.CORE\\MarkAPI.CORE.csproj": {
-                "projectPath": "C:\\It\\CodeTasks\\Api\\MarkAPI\\MarkAPI.CORE\\MarkAPI.CORE.csproj"
+              "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.CORE\\MarkAPI.CORE.csproj": {
+                "projectPath": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.CORE\\MarkAPI.CORE.csproj"
               }
             }
           }
@@ -118,8 +119,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -156,7 +158,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.24575.35/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
