@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarkAPI.CORE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+893fd86eab88514ba153d0cc16d429c212ba6bb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c879fe211b4d64fe72724c43fdef6f885a5c811")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarkAPI.CORE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarkAPI.CORE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

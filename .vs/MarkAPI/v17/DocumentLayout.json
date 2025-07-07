@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|solutionrelative:markapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|c:\\users\\namelesswarrior\\desktop\\markapi\\markapi.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|solutionrelative:markapi.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|c:\\users\\namelesswarrior\\desktop\\markapi\\markapi.api\\railway.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|solutionrelative:markapi.api\\railway.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.API\\Dockerfile",
+              "RelativeDocumentMoniker": "MarkAPI.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.API\\Dockerfile",
+              "RelativeToolTip": "MarkAPI.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-07T16:14:43.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,14 +53,14 @@
               "RelativeDocumentMoniker": "MarkAPI.API\\Program.cs",
               "ToolTip": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.API\\Program.cs",
               "RelativeToolTip": "MarkAPI.API\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T15:57:41.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "railway.toml",
               "DocumentMoniker": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.API\\railway.toml",
               "RelativeDocumentMoniker": "MarkAPI.API\\railway.toml",
@@ -51,21 +68,19 @@
               "RelativeToolTip": "MarkAPI.API\\railway.toml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-07T15:52:58.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T15:52:58.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MarkAPI.Bussines",
+              "DocumentIndex": 3,
+              "Title": "MarkAPI.Bussines.csproj",
               "DocumentMoniker": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.Bussines\\MarkAPI.Bussines.csproj",
               "RelativeDocumentMoniker": "MarkAPI.Bussines\\MarkAPI.Bussines.csproj",
               "ToolTip": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.Bussines\\MarkAPI.Bussines.csproj",
               "RelativeToolTip": "MarkAPI.Bussines\\MarkAPI.Bussines.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-07T15:51:52.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T15:51:52.344Z"
             }
           ]
         }

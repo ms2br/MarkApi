@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|c:\\users\\namelesswarrior\\desktop\\markapi\\markapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|solutionrelative:markapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|c:\\users\\namelesswarrior\\desktop\\markapi\\markapi.api\\railway.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E65E3D2C-41D4-417A-8B3D-6BF35B938910}|MarkAPI.API\\MarkAPI.API.csproj|solutionrelative:markapi.api\\railway.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|c:\\users\\namelesswarrior\\desktop\\markapi\\markapi.bussines\\markapi.bussines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDC21ED5-42DC-4003-A485-E254ED1CD689}|MarkAPI.Bussines\\MarkAPI.Bussines.csproj|solutionrelative:markapi.bussines\\markapi.bussines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "MarkAPI.API\\Program.cs",
+              "ToolTip": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.API\\Program.cs",
+              "RelativeToolTip": "MarkAPI.API\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T15:57:41.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "railway.toml",
+              "DocumentMoniker": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.API\\railway.toml",
+              "RelativeDocumentMoniker": "MarkAPI.API\\railway.toml",
+              "ToolTip": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.API\\railway.toml",
+              "RelativeToolTip": "MarkAPI.API\\railway.toml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-07T15:52:58.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarkAPI.Bussines",
+              "DocumentMoniker": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.Bussines\\MarkAPI.Bussines.csproj",
+              "RelativeDocumentMoniker": "MarkAPI.Bussines\\MarkAPI.Bussines.csproj",
+              "ToolTip": "C:\\Users\\namelesswarrior\\Desktop\\MarkApi\\MarkAPI.Bussines\\MarkAPI.Bussines.csproj",
+              "RelativeToolTip": "MarkAPI.Bussines\\MarkAPI.Bussines.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T15:51:52.344Z",
+              "EditorCaption": ""
             }
           ]
         }

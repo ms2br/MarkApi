@@ -27,7 +27,7 @@ namespace MarkAPI.API
                 opt.WithOrigins("http://127.0.0.1:5500").AllowAnyHeader().AllowAnyMethod()
                 );
             });
-            var port = Environment.GetEnvironmentVariable("PORT") ?? "8081";
+            var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
             builder.WebHost.UseUrls($"http://*:{port}");
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerBearer();
