@@ -1,6 +1,6 @@
 [build]
 builder = "dockerfile"
-dockerfile = "./MarkAPI.API/Dockerfile"
+dockerfilePath  = "./MarkAPI.API/Dockerfile"
 
 [deploy]
 startCommand = "dotnet MarkAPI.API.dll"
