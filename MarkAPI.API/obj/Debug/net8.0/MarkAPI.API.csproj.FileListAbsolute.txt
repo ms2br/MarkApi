@@ -320,7 +320,6 @@ C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.API\obj\Debug\net8.0\staticweba
 C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MarkAPI.API.props
 C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MarkAPI.API.props
 C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.API\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.API\obj\Debug\net8.0\MarkAPI..71D72B10.Up2Date
 C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.API\obj\Debug\net8.0\MarkAPI.API.dll
 C:\Users\namelesswarrior\Desktop\MarkApi\MarkAPI.API\obj\Debug\net8.0\refint\MarkAPI.API.dll

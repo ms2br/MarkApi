@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarkAPI.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c879fe211b4d64fe72724c43fdef6f885a5c811")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e37883e7b209eec67494956b67cdef62c1928a3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarkAPI.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarkAPI.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
